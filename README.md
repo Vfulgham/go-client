@@ -1,2 +1,2 @@
-# polygon-go-client
+# go-client
 Golang, client API call and test
